@@ -405,7 +405,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(35, 13);
             this.label5.TabIndex = 37;
-            this.label5.Text = "label5";
+            this.label5.Text = "alabestia";
             // 
             // Form1
             // 

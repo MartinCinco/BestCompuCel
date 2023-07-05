@@ -395,7 +395,7 @@
             this.lbAviso.Name = "lbAviso";
             this.lbAviso.Size = new System.Drawing.Size(36, 13);
             this.lbAviso.TabIndex = 36;
-            this.lbAviso.Text = "hola 3";
+            this.lbAviso.Text = "h o l a 4";
             // 
             // Form1
             // 

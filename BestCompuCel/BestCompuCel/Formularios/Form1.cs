@@ -44,5 +44,15 @@ namespace BestCompuCel.Formularios
             string fileContent = File.ReadAllText(aviso);
             lbAviso.Text = fileContent;
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            label5.Text = label5.Text + ((Button)sender).Text;
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            label5.Text = "Contraseña: ";
+        }
     }
 }

@@ -137,6 +137,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Formularios\AvisoLegal.txt" />
     <Content Include="Properties\AvisoLegal.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

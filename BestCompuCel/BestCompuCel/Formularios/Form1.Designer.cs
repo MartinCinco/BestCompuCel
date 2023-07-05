@@ -391,7 +391,7 @@
             // lbAviso
             // 
             this.lbAviso.AutoSize = true;
-            this.lbAviso.Location = new System.Drawing.Point(504, 427);
+            this.lbAviso.Location = new System.Drawing.Point(468, 439);
             this.lbAviso.Name = "lbAviso";
             this.lbAviso.Size = new System.Drawing.Size(187, 13);
             this.lbAviso.TabIndex = 36;

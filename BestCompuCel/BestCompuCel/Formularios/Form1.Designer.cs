@@ -391,11 +391,11 @@
             // lbAviso
             // 
             this.lbAviso.AutoSize = true;
-            this.lbAviso.Location = new System.Drawing.Point(216, 461);
+            this.lbAviso.Location = new System.Drawing.Point(117, 464);
             this.lbAviso.Name = "lbAviso";
-            this.lbAviso.Size = new System.Drawing.Size(36, 13);
+            this.lbAviso.Size = new System.Drawing.Size(45, 13);
             this.lbAviso.TabIndex = 36;
-            this.lbAviso.Text = "h o l a 4";
+            this.lbAviso.Text = "h o l a 5";
             // 
             // Form1
             // 
